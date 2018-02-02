@@ -1,0 +1,1246 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\RobotPrj\STM_FSMC_LCDk\STM_FSMC_LCDk.uvproj
+Project File Date:  06/12/2016
+
+<h2>Output:</h2>
+Build target 'redScope_ADC'
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling adc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling dma.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling fsmc_nand.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling fsmc_sram.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling main.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling main_ADC.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling main_org.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling menu.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling sdcard.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_it.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling misc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_adc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_bkp.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_can.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_crc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_dac.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_dbgmcu.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_dma.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_exti.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_flash.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_fsmc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_gpio.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_i2c.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_iwdg.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_pwr.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_rcc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_rtc.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_sdio.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_spi.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_tim.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_usart.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm32f10x_wwdg.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling F16B_ASCII.c...
+src\LCD\F16B_ASCII.c(21): error:  #5: cannot open source input file "GUI_FontIntern.h": No such file or directory
+compiling ili9320_touch.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling lcdProcess.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+compiling stm3210e_lcd.c...
+C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+Target not created
+Build target 'redScope_ADC'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling adc.c...
+compiling dma.c...
+compiling fsmc_nand.c...
+compiling fsmc_sram.c...
+compiling main.c...
+src\main.c(70): error:  #167: argument of type "GPIO_InitTypeDef" is incompatible with parameter of type "GPIO_InitTypeDef *"
+src\main.c(120): error:  #77-D: this declaration has no storage class or type specifier
+src\main.c(120): error:  #65: expected a ";"
+src\main.c(150): warning:  #12-D: parsing restarts here after previous syntax error
+src\main.c(151): error:  #169: expected a declaration
+src\main.c(209): warning:  #12-D: parsing restarts here after previous syntax error
+src\main.c(211): error:  #169: expected a declaration
+src\main.c(223): warning:  #12-D: parsing restarts here after previous syntax error
+src\main.c(225): error:  #77-D: this declaration has no storage class or type specifier
+src\main.c(225): error:  #59: function call is not allowed in a constant expression
+src\main.c(226): error:  #169: expected a declaration
+src\main.c(229): error:  #77-D: this declaration has no storage class or type specifier
+src\main.c(229): error:  #59: function call is not allowed in a constant expression
+src\main.c(230): error:  #169: expected a declaration
+src\main.c(233): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(233): error:  #92: identifier-list parameters may only be used in a function definition
+src\main.c(234): error:  #169: expected a declaration
+src\main.c(259): warning:  #12-D: parsing restarts here after previous syntax error
+src\main.c(260): error:  #79: expected a type specifier
+src\main.c(260): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(260): error:  #147: declaration is incompatible with "void LCD_SetBackColor(volatile uint16_t)" (declared at line 184 of ".\inc\stm3210e_lcd.h")
+src\main.c(261): error:  #79: expected a type specifier
+src\main.c(261): error:  #79: expected a type specifier
+src\main.c(261): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(261): error:  #147: declaration is incompatible with "void LCD_DisplayStringLine(uint8_t, uint8_t *)" (declared at line 191 of ".\inc\stm3210e_lcd.h")
+src\main.c(262): error:  #79: expected a type specifier
+src\main.c(262): error:  #79: expected a type specifier
+src\main.c(262): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(262): error:  #147: declaration is incompatible with "void GPIO_SetBits(GPIO_TypeDef *, uint16_t)" (declared at line 300 of ".\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h")
+src\main.c(263): error:  #79: expected a type specifier
+src\main.c(263): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(264): warning:  #1295-D: Deprecated declaration lcdInitScreen - give arg types
+src\main.c(264): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(266): warning:  #1295-D: Deprecated declaration LCD_WindowModeDisable - give arg types
+src\main.c(266): warning:  #77-D: this declaration has no storage class or type specifier
+src\main.c(266): error:  #147: declaration is incompatible with "void LCD_WindowModeDisable(void)" (declared at line 196 of ".\inc\stm3210e_lcd.h")
+src\main.c(268): error:  #77-D: this declaration has no storage class or type specifier
+src\main.c(268): error:  #28: expression must have a constant value
+src\main.c(269): error:  #169: expected a declaration
+src\main.c(282): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\main.c(18): warning:  #177-D: variable "m_cKeyBounce" was declared but never referenced
+compiling main_ADC.c...
+src\main_ADC.c(119): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(119): error:  #65: expected a ";"
+src\main_ADC.c(149): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(150): error:  #169: expected a declaration
+src\main_ADC.c(208): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(210): error:  #169: expected a declaration
+src\main_ADC.c(222): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(224): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(224): error:  #59: function call is not allowed in a constant expression
+src\main_ADC.c(225): error:  #169: expected a declaration
+src\main_ADC.c(228): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(228): error:  #59: function call is not allowed in a constant expression
+src\main_ADC.c(229): error:  #169: expected a declaration
+src\main_ADC.c(232): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(232): error:  #92: identifier-list parameters may only be used in a function definition
+src\main_ADC.c(233): error:  #169: expected a declaration
+src\main_ADC.c(258): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(259): error:  #79: expected a type specifier
+src\main_ADC.c(259): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(259): error:  #147: declaration is incompatible with "void LCD_SetBackColor(volatile uint16_t)" (declared at line 184 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(260): error:  #79: expected a type specifier
+src\main_ADC.c(260): error:  #79: expected a type specifier
+src\main_ADC.c(260): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(260): error:  #147: declaration is incompatible with "void LCD_DisplayStringLine(uint8_t, uint8_t *)" (declared at line 191 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(261): error:  #79: expected a type specifier
+src\main_ADC.c(261): error:  #79: expected a type specifier
+src\main_ADC.c(261): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(261): error:  #147: declaration is incompatible with "void GPIO_SetBits(GPIO_TypeDef *, uint16_t)" (declared at line 300 of ".\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h")
+src\main_ADC.c(262): error:  #79: expected a type specifier
+src\main_ADC.c(262): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(264): error:  #79: expected a type specifier
+src\main_ADC.c(264): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(264): error:  #147: declaration is incompatible with "void LCD_Clear(uint16_t)" (declared at line 187 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(266): warning:  #1295-D: Deprecated declaration LCD_WindowModeDisable - give arg types
+src\main_ADC.c(266): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(266): error:  #147: declaration is incompatible with "void LCD_WindowModeDisable(void)" (declared at line 196 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(268): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(268): error:  #28: expression must have a constant value
+src\main_ADC.c(269): error:  #169: expected a declaration
+src\main_ADC.c(281): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(18): warning:  #177-D: variable "m_cKeyBounce" was declared but never referenced
+compiling main_org.c...
+src\main_org.c(191): error:  #20: identifier "SystemFrequency" is undefined
+compiling menu.c...
+src\menu.c(85): error:  #20: identifier "NOR_IDTypeDef" is undefined
+src\menu.c(87): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(159): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(161): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(692): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(695): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(697): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1129): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(1132): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(1134): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1238): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(1241): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(1243): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1361): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(1364): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(1366): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1446): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(1551): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(2385): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2388): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2390): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2559): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2562): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2564): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2664): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2667): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2669): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2742): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2745): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2747): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2851): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2854): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2856): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2858): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(2901): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(2924): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(2926): error:  #20: identifier "NAND_ZONE_SIZE" is undefined
+src\menu.c(2926): error:  #20: identifier "NAND_MAX_ZONE" is undefined
+src\menu.c(2928): error:  #20: identifier "NAND_BLOCK_SIZE" is undefined
+src\menu.c(2932): warning:  #223-D: function "FSMC_NAND_EraseBlock" declared implicitly
+src\menu.c(2968): warning:  #223-D: function "FSMC_NAND_EraseBlock" declared implicitly
+src\menu.c(2969): warning:  #223-D: function "FSMC_NAND_WriteSmallPage" declared implicitly
+src\menu.c(2994): warning:  #223-D: function "FSMC_NAND_ReadSmallPage" declared implicitly
+src\menu.c(3007): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3009): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3011): error:  #20: identifier "NAND_BLOCK_SIZE" is undefined
+src\menu.c(3032): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3034): warning:  #223-D: function "FSMC_NAND_ReadSpareArea" declared implicitly
+src\menu.c(3046): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3048): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3050): error:  #20: identifier "NAND_BLOCK_SIZE" is undefined
+compiling sdcard.c...
+src\sdcard.c(187): error:  #20: identifier "bool" is undefined
+src\sdcard.c(187): error:  #20: identifier "FALSE" is undefined
+src\sdcard.c(301): error:  #20: identifier "bool" is undefined
+compiling stm32f10x_it.c...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c(120): warning:  #47-D: incompatible redefinition of macro "HSI_Value" (declared at line 529 of "C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h")
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+compiling F16B_ASCII.c...
+src\LCD\F16B_ASCII.c(21): error:  #5: cannot open source input file "GUI_FontIntern.h": No such file or directory
+compiling ili9320_touch.c...
+compiling lcdProcess.c...
+src\LCD\lcdProcess.c(50): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(50): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(81): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(161): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(161): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(206): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(207): error:  #147: declaration is incompatible with "void LCD_DrawLine(uint8_t, uint16_t, uint16_t, uint8_t)" (declared at line 197 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(210): error:  #147: declaration is incompatible with "void LCD_ClearRect(u16, u16, u16, u16)" (declared at line 185 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(213): error:  #40: expected an identifier
+src\LCD\lcdProcess.c(213): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(213): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\lcdProcess.c(213): error:  #147: declaration is incompatible with "void *memcpy(void *restrict, const void *restrict, size_t)" (declared at line 50 of "C:\Keil\ARM\ARMCC\bin\..\include\string.h")
+src\LCD\lcdProcess.c(214): error:  #169: expected a declaration
+src\LCD\lcdProcess.c(235): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(82): warning:  #177-D: variable "m_GridFrame" was declared but never referenced
+src\LCD\lcdProcess.c(93): warning:  #177-D: variable "m_strPos" was declared but never referenced
+src\LCD\lcdProcess.c(94): warning:  #177-D: variable "m_strNeg" was declared but never referenced
+src\LCD\lcdProcess.c(95): warning:  #177-D: variable "m_strTrigLv" was declared but never referenced
+src\LCD\lcdProcess.c(96): warning:  #177-D: variable "m_strTrigEd" was declared but never referenced
+src\LCD\lcdProcess.c(97): warning:  #177-D: variable "m_strVscale" was declared but never referenced
+src\LCD\lcdProcess.c(98): warning:  #177-D: variable "m_strTscale" was declared but never referenced
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling main.c...
+src\main.c(204): warning:  #223-D: function "lcdUpdateStart" declared implicitly
+src\main.c(218): warning:  #223-D: function "lcdUpdateMode" declared implicitly
+src\main.c(236): warning:  #951-D: return type of function "main" must be "int"
+src\main.c(252): error:  #20: identifier "SystemFrequency" is undefined
+src\main.c(262): warning:  #223-D: function "Delay10ms" declared implicitly
+src\main.c(263): warning:  #223-D: function "lcdInitScreen" declared implicitly
+src\main.c(271): error:  #136: struct "<unnamed>" has no field "startProc"
+compiling main_ADC.c...
+src\main_ADC.c(119): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(119): error:  #65: expected a ";"
+src\main_ADC.c(149): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(150): error:  #169: expected a declaration
+src\main_ADC.c(208): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(210): error:  #169: expected a declaration
+src\main_ADC.c(222): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(224): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(224): error:  #59: function call is not allowed in a constant expression
+src\main_ADC.c(225): error:  #169: expected a declaration
+src\main_ADC.c(228): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(228): error:  #59: function call is not allowed in a constant expression
+src\main_ADC.c(229): error:  #169: expected a declaration
+src\main_ADC.c(232): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(232): error:  #92: identifier-list parameters may only be used in a function definition
+src\main_ADC.c(233): error:  #169: expected a declaration
+src\main_ADC.c(258): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(259): error:  #79: expected a type specifier
+src\main_ADC.c(259): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(259): error:  #147: declaration is incompatible with "void LCD_SetBackColor(volatile uint16_t)" (declared at line 184 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(260): error:  #79: expected a type specifier
+src\main_ADC.c(260): error:  #79: expected a type specifier
+src\main_ADC.c(260): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(260): error:  #147: declaration is incompatible with "void LCD_DisplayStringLine(uint8_t, uint8_t *)" (declared at line 191 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(261): error:  #79: expected a type specifier
+src\main_ADC.c(261): error:  #79: expected a type specifier
+src\main_ADC.c(261): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(261): error:  #147: declaration is incompatible with "void GPIO_SetBits(GPIO_TypeDef *, uint16_t)" (declared at line 300 of ".\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h")
+src\main_ADC.c(262): error:  #79: expected a type specifier
+src\main_ADC.c(262): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(264): error:  #79: expected a type specifier
+src\main_ADC.c(264): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(264): error:  #147: declaration is incompatible with "void LCD_Clear(uint16_t)" (declared at line 187 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(266): warning:  #1295-D: Deprecated declaration LCD_WindowModeDisable - give arg types
+src\main_ADC.c(266): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(266): error:  #147: declaration is incompatible with "void LCD_WindowModeDisable(void)" (declared at line 196 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(268): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(268): error:  #28: expression must have a constant value
+src\main_ADC.c(269): error:  #169: expected a declaration
+src\main_ADC.c(281): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(18): warning:  #177-D: variable "m_cKeyBounce" was declared but never referenced
+compiling main_org.c...
+src\main_org.c(191): error:  #20: identifier "SystemFrequency" is undefined
+compiling menu.c...
+src\menu.c(85): error:  #20: identifier "NOR_IDTypeDef" is undefined
+src\menu.c(87): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(159): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(161): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(692): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(695): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(697): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1129): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(1132): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(1134): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1238): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(1241): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(1243): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1361): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(1364): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(1366): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(1446): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(1551): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(2385): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2388): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2390): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2559): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2562): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2564): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2664): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2667): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2669): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2742): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2745): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2747): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2851): warning:  #223-D: function "FSMC_NOR_Init" declared implicitly
+src\menu.c(2854): warning:  #223-D: function "FSMC_NOR_ReadID" declared implicitly
+src\menu.c(2856): warning:  #223-D: function "FSMC_NOR_ReturnToReadMode" declared implicitly
+src\menu.c(2858): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(2901): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(2924): warning:  #223-D: function "FSMC_NAND_Init" declared implicitly
+src\menu.c(2926): error:  #20: identifier "NAND_ZONE_SIZE" is undefined
+src\menu.c(2926): error:  #20: identifier "NAND_MAX_ZONE" is undefined
+src\menu.c(2928): error:  #20: identifier "NAND_BLOCK_SIZE" is undefined
+src\menu.c(2932): warning:  #223-D: function "FSMC_NAND_EraseBlock" declared implicitly
+src\menu.c(2968): warning:  #223-D: function "FSMC_NAND_EraseBlock" declared implicitly
+src\menu.c(2969): warning:  #223-D: function "FSMC_NAND_WriteSmallPage" declared implicitly
+src\menu.c(2994): warning:  #223-D: function "FSMC_NAND_ReadSmallPage" declared implicitly
+src\menu.c(3007): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3009): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3011): error:  #20: identifier "NAND_BLOCK_SIZE" is undefined
+src\menu.c(3032): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3034): warning:  #223-D: function "FSMC_NAND_ReadSpareArea" declared implicitly
+src\menu.c(3046): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3048): error:  #20: identifier "NAND_ADDRESS" is undefined
+src\menu.c(3050): error:  #20: identifier "NAND_BLOCK_SIZE" is undefined
+compiling sdcard.c...
+src\sdcard.c(187): error:  #20: identifier "bool" is undefined
+src\sdcard.c(187): error:  #20: identifier "FALSE" is undefined
+src\sdcard.c(301): error:  #20: identifier "bool" is undefined
+compiling F16B_ASCII.c...
+src\LCD\F16B_ASCII.c(21): error:  #5: cannot open source input file "GUI_FontIntern.h": No such file or directory
+compiling lcdProcess.c...
+src\LCD\lcdProcess.c(50): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(50): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(81): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(161): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(161): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(206): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(207): error:  #147: declaration is incompatible with "void LCD_DrawLine(uint8_t, uint16_t, uint16_t, uint8_t)" (declared at line 197 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(210): error:  #147: declaration is incompatible with "void LCD_ClearRect(u16, u16, u16, u16)" (declared at line 185 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(213): error:  #40: expected an identifier
+src\LCD\lcdProcess.c(213): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(213): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\lcdProcess.c(213): error:  #147: declaration is incompatible with "void *memcpy(void *restrict, const void *restrict, size_t)" (declared at line 50 of "C:\Keil\ARM\ARMCC\bin\..\include\string.h")
+src\LCD\lcdProcess.c(214): error:  #169: expected a declaration
+src\LCD\lcdProcess.c(235): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(82): warning:  #177-D: variable "m_GridFrame" was declared but never referenced
+src\LCD\lcdProcess.c(93): warning:  #177-D: variable "m_strPos" was declared but never referenced
+src\LCD\lcdProcess.c(94): warning:  #177-D: variable "m_strNeg" was declared but never referenced
+src\LCD\lcdProcess.c(95): warning:  #177-D: variable "m_strTrigLv" was declared but never referenced
+src\LCD\lcdProcess.c(96): warning:  #177-D: variable "m_strTrigEd" was declared but never referenced
+src\LCD\lcdProcess.c(97): warning:  #177-D: variable "m_strVscale" was declared but never referenced
+src\LCD\lcdProcess.c(98): warning:  #177-D: variable "m_strTscale" was declared but never referenced
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling main_ADC.c...
+src\main_ADC.c(119): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(119): error:  #65: expected a ";"
+src\main_ADC.c(149): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(150): error:  #169: expected a declaration
+src\main_ADC.c(208): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(210): error:  #169: expected a declaration
+src\main_ADC.c(222): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(224): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(224): error:  #59: function call is not allowed in a constant expression
+src\main_ADC.c(225): error:  #169: expected a declaration
+src\main_ADC.c(228): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(228): error:  #59: function call is not allowed in a constant expression
+src\main_ADC.c(229): error:  #169: expected a declaration
+src\main_ADC.c(232): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(232): error:  #92: identifier-list parameters may only be used in a function definition
+src\main_ADC.c(233): error:  #169: expected a declaration
+src\main_ADC.c(258): warning:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(259): error:  #79: expected a type specifier
+src\main_ADC.c(259): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(259): error:  #147: declaration is incompatible with "void LCD_SetBackColor(volatile uint16_t)" (declared at line 184 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(260): error:  #79: expected a type specifier
+src\main_ADC.c(260): error:  #79: expected a type specifier
+src\main_ADC.c(260): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(260): error:  #147: declaration is incompatible with "void LCD_DisplayStringLine(uint8_t, uint8_t *)" (declared at line 191 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(261): error:  #79: expected a type specifier
+src\main_ADC.c(261): error:  #79: expected a type specifier
+src\main_ADC.c(261): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(261): error:  #147: declaration is incompatible with "void GPIO_SetBits(GPIO_TypeDef *, uint16_t)" (declared at line 300 of ".\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h")
+src\main_ADC.c(262): error:  #79: expected a type specifier
+src\main_ADC.c(262): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(264): error:  #79: expected a type specifier
+src\main_ADC.c(264): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(264): error:  #147: declaration is incompatible with "void LCD_Clear(uint16_t)" (declared at line 187 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(266): warning:  #1295-D: Deprecated declaration LCD_WindowModeDisable - give arg types
+src\main_ADC.c(266): warning:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(266): error:  #147: declaration is incompatible with "void LCD_WindowModeDisable(void)" (declared at line 196 of ".\inc\stm3210e_lcd.h")
+src\main_ADC.c(268): error:  #77-D: this declaration has no storage class or type specifier
+src\main_ADC.c(268): error:  #28: expression must have a constant value
+src\main_ADC.c(269): error:  #169: expected a declaration
+src\main_ADC.c(281): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\main_ADC.c(18): warning:  #177-D: variable "m_cKeyBounce" was declared but never referenced
+compiling F16B_ASCII.c...
+src\LCD\F16B_ASCII.c(21): error:  #5: cannot open source input file "GUI_FontIntern.h": No such file or directory
+compiling lcdProcess.c...
+src\LCD\lcdProcess.c(50): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(50): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(81): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(161): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(161): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(206): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(207): error:  #147: declaration is incompatible with "void LCD_DrawLine(uint8_t, uint16_t, uint16_t, uint8_t)" (declared at line 197 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(210): error:  #147: declaration is incompatible with "void LCD_ClearRect(u16, u16, u16, u16)" (declared at line 185 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(213): error:  #40: expected an identifier
+src\LCD\lcdProcess.c(213): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(213): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\lcdProcess.c(213): error:  #147: declaration is incompatible with "void *memcpy(void *restrict, const void *restrict, size_t)" (declared at line 50 of "C:\Keil\ARM\ARMCC\bin\..\include\string.h")
+src\LCD\lcdProcess.c(214): error:  #169: expected a declaration
+src\LCD\lcdProcess.c(235): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(82): warning:  #177-D: variable "m_GridFrame" was declared but never referenced
+src\LCD\lcdProcess.c(93): warning:  #177-D: variable "m_strPos" was declared but never referenced
+src\LCD\lcdProcess.c(94): warning:  #177-D: variable "m_strNeg" was declared but never referenced
+src\LCD\lcdProcess.c(95): warning:  #177-D: variable "m_strTrigLv" was declared but never referenced
+src\LCD\lcdProcess.c(96): warning:  #177-D: variable "m_strTrigEd" was declared but never referenced
+src\LCD\lcdProcess.c(97): warning:  #177-D: variable "m_strVscale" was declared but never referenced
+src\LCD\lcdProcess.c(98): warning:  #177-D: variable "m_strTscale" was declared but never referenced
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling main_ADC.c...
+src\main_ADC.c(203): warning:  #223-D: function "lcdUpdateStart" declared implicitly
+src\main_ADC.c(217): warning:  #223-D: function "lcdUpdateMode" declared implicitly
+src\main_ADC.c(235): warning:  #951-D: return type of function "main" must be "int"
+src\main_ADC.c(251): error:  #20: identifier "SystemFrequency" is undefined
+src\main_ADC.c(261): warning:  #223-D: function "Delay10ms" declared implicitly
+src\main_ADC.c(273): warning:  #223-D: function "ReadADCData" declared implicitly
+src\main_ADC.c(185): warning:  #177-D: function "keyProcess" was declared but never referenced
+compiling F16B_ASCII.c...
+src\LCD\F16B_ASCII.c(21): error:  #5: cannot open source input file "GUI_FontIntern.h": No such file or directory
+compiling lcdProcess.c...
+src\LCD\lcdProcess.c(50): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(50): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(81): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(161): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(161): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(206): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(207): error:  #147: declaration is incompatible with "void LCD_DrawLine(uint8_t, uint16_t, uint16_t, uint8_t)" (declared at line 197 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(210): error:  #147: declaration is incompatible with "void LCD_ClearRect(u16, u16, u16, u16)" (declared at line 185 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(213): error:  #40: expected an identifier
+src\LCD\lcdProcess.c(213): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(213): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\lcdProcess.c(213): error:  #147: declaration is incompatible with "void *memcpy(void *restrict, const void *restrict, size_t)" (declared at line 50 of "C:\Keil\ARM\ARMCC\bin\..\include\string.h")
+src\LCD\lcdProcess.c(214): error:  #169: expected a declaration
+src\LCD\lcdProcess.c(235): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(82): warning:  #177-D: variable "m_GridFrame" was declared but never referenced
+src\LCD\lcdProcess.c(93): warning:  #177-D: variable "m_strPos" was declared but never referenced
+src\LCD\lcdProcess.c(94): warning:  #177-D: variable "m_strNeg" was declared but never referenced
+src\LCD\lcdProcess.c(95): warning:  #177-D: variable "m_strTrigLv" was declared but never referenced
+src\LCD\lcdProcess.c(96): warning:  #177-D: variable "m_strTrigEd" was declared but never referenced
+src\LCD\lcdProcess.c(97): warning:  #177-D: variable "m_strVscale" was declared but never referenced
+src\LCD\lcdProcess.c(98): warning:  #177-D: variable "m_strTscale" was declared but never referenced
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling adc.c...
+compiling dma.c...
+compiling main_ADC.c...
+src\main_ADC.c(203): warning:  #223-D: function "lcdUpdateStart" declared implicitly
+src\main_ADC.c(217): warning:  #223-D: function "lcdUpdateMode" declared implicitly
+src\main_ADC.c(235): warning:  #951-D: return type of function "main" must be "int"
+src\main_ADC.c(261): warning:  #223-D: function "Delay10ms" declared implicitly
+src\main_ADC.c(273): warning:  #223-D: function "ReadADCData" declared implicitly
+src\main_ADC.c(185): warning:  #177-D: function "keyProcess" was declared but never referenced
+src\main_ADC.c(270): warning: C3017W: adcData2 may be used before being set
+src\main_ADC.c(270): warning: C3017W: adcData1 may be used before being set
+compiling stm32f10x_it.c...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+compiling F16B_ASCII.c...
+src\LCD\F16B_ASCII.c(21): error:  #5: cannot open source input file "GUI_FontIntern.h": No such file or directory
+compiling ili9320_touch.c...
+compiling lcdProcess.c...
+src\LCD\lcdProcess.c(50): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(50): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(81): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(161): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(161): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(206): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(207): error:  #147: declaration is incompatible with "void LCD_DrawLine(uint8_t, uint16_t, uint16_t, uint8_t)" (declared at line 197 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(210): error:  #147: declaration is incompatible with "void LCD_ClearRect(u16, u16, u16, u16)" (declared at line 185 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(213): error:  #40: expected an identifier
+src\LCD\lcdProcess.c(213): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(213): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\lcdProcess.c(213): error:  #147: declaration is incompatible with "void *memcpy(void *restrict, const void *restrict, size_t)" (declared at line 50 of "C:\Keil\ARM\ARMCC\bin\..\include\string.h")
+src\LCD\lcdProcess.c(214): error:  #169: expected a declaration
+src\LCD\lcdProcess.c(235): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(82): warning:  #177-D: variable "m_GridFrame" was declared but never referenced
+src\LCD\lcdProcess.c(93): warning:  #177-D: variable "m_strPos" was declared but never referenced
+src\LCD\lcdProcess.c(94): warning:  #177-D: variable "m_strNeg" was declared but never referenced
+src\LCD\lcdProcess.c(95): warning:  #177-D: variable "m_strTrigLv" was declared but never referenced
+src\LCD\lcdProcess.c(96): warning:  #177-D: variable "m_strTrigEd" was declared but never referenced
+src\LCD\lcdProcess.c(97): warning:  #177-D: variable "m_strVscale" was declared but never referenced
+src\LCD\lcdProcess.c(98): warning:  #177-D: variable "m_strTscale" was declared but never referenced
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling lcdProcess.c...
+src\LCD\lcdProcess.c(50): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(50): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(81): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(161): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(161): error:  #65: expected a ";"
+src\LCD\lcdProcess.c(206): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(207): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(207): error:  #147: declaration is incompatible with "void LCD_DrawLine(uint8_t, uint16_t, uint16_t, uint8_t)" (declared at line 197 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): error:  #79: expected a type specifier
+src\LCD\lcdProcess.c(210): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(210): error:  #147: declaration is incompatible with "void LCD_ClearRect(u16, u16, u16, u16)" (declared at line 185 of ".\inc\stm3210e_lcd.h")
+src\LCD\lcdProcess.c(213): error:  #40: expected an identifier
+src\LCD\lcdProcess.c(213): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\lcdProcess.c(213): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\lcdProcess.c(213): error:  #147: declaration is incompatible with "void *memcpy(void *restrict, const void *restrict, size_t)" (declared at line 50 of "C:\Keil\ARM\ARMCC\bin\..\include\string.h")
+src\LCD\lcdProcess.c(214): error:  #169: expected a declaration
+src\LCD\lcdProcess.c(235): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+src\LCD\lcdProcess.c(82): warning:  #177-D: variable "m_GridFrame" was declared but never referenced
+src\LCD\lcdProcess.c(93): warning:  #177-D: variable "m_strPos" was declared but never referenced
+src\LCD\lcdProcess.c(94): warning:  #177-D: variable "m_strNeg" was declared but never referenced
+src\LCD\lcdProcess.c(95): warning:  #177-D: variable "m_strTrigLv" was declared but never referenced
+src\LCD\lcdProcess.c(96): warning:  #177-D: variable "m_strTrigEd" was declared but never referenced
+src\LCD\lcdProcess.c(97): warning:  #177-D: variable "m_strVscale" was declared but never referenced
+src\LCD\lcdProcess.c(98): warning:  #177-D: variable "m_strTscale" was declared but never referenced
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #70: incomplete type is not allowed
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created
+Build target 'redScope_ADC'
+compiling stm3210e_lcd.c...
+src\LCD\stm3210e_lcd.c(384): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(384): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(407): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(408): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(408): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(408): error:  #147: declaration is incompatible with "void LCD_SetCursor(uint8_t, uint16_t)" (declared at line 369)
+src\LCD\stm3210e_lcd.c(409): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(519): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(520): error:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(520): error:  #65: expected a ";"
+src\LCD\stm3210e_lcd.c(521): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(527): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(529): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(579): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(581): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(581): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(582): error:  #169: expected a declaration
+src\LCD\stm3210e_lcd.c(678): warning:  #12-D: parsing restarts here after previous syntax error
+src\LCD\stm3210e_lcd.c(680): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(680): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(680): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(681): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(681): error:  #147: declaration is incompatible with "void LCD_WriteRAM_Prepare(void)" (declared at line 206 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(682): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(682): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(682): error:  #147: declaration is incompatible with "void LCD_WriteRAM(uint16_t)" (declared at line 207 of ".\inc\stm3210e_lcd.h")
+src\LCD\stm3210e_lcd.c(684): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(684): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(684): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(685): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(685): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(686): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(688): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(688): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(688): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(689): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(689): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(690): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(692): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(692): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(692): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(693): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(693): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(694): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(696): error:  #20: identifier "Xpos" is undefined
+src\LCD\stm3210e_lcd.c(696): error:  #18: expected a ")"
+src\LCD\stm3210e_lcd.c(696): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(697): warning:  #1295-D: Deprecated declaration LCD_WriteRAM_Prepare - give arg types
+src\LCD\stm3210e_lcd.c(697): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): warning:  #77-D: this declaration has no storage class or type specifier
+src\LCD\stm3210e_lcd.c(698): error:  #92: identifier-list parameters may only be used in a function definition
+src\LCD\stm3210e_lcd.c(700): error:  #169: expected a declaration
+Target not created

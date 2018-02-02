@@ -1,0 +1,40 @@
+Dependencies for Project 'STM_FSMC_LCDk', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_hd.s)(0x4F5835BC)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list "startup_stm32f10x_hd.lst" --xref -o "startup_stm32f10x_hd.o" --depend "startup_stm32f10x_hd.d")
+F (.\Libraries\CMSIS\Core\CM3\core_cm3.c)(0x49F2ADE8)()
+F (.\Libraries\CMSIS\Core\CM3\system_stm32f10x.c)(0x49F2ADE8)()
+F (.\src\adc.c)(0x575A85D7)()
+F (.\src\dma.c)(0x575A8799)()
+F (.\src\fsmc_nand.c)(0x49F2ADEA)()
+F (.\src\fsmc_sram.c)(0x49F2ADEA)()
+F (.\src\main.c)(0x575996EC)()
+F (.\src\main_ADC.c)(0x575A8D93)()
+F (.\src\main_org.c)(0x49F2ADEA)()
+F (.\src\menu.c)(0x5642B838)()
+F (.\src\sdcard.c)(0x49F2ADEA)()
+F (.\src\stm32f10x_it.c)(0x575A8BE2)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_bkp.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_can.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_crc.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dac.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dbgmcu.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dma.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_fsmc.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_i2c.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_iwdg.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_pwr.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rtc.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_sdio.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c)(0x49F2ADE8)()
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_wwdg.c)(0x49F2ADE8)()
+F (.\src\LCD\F16B_ASCII.c)(0x4123EF60)()
+F (.\src\LCD\ili9320_touch.c)(0x575A7CE0)()
+F (.\src\LCD\lcdProcess.c)(0x575A7F3A)()
+F (.\src\LCD\stm3210e_lcd.c)(0x575A8D05)()
